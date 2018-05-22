@@ -23,7 +23,7 @@ public class op1 {
         System.out.println("Número de vogais: " + contVogais + "\n");
         
         // d
-        if (texto.startsWith("UNI")){
+        if (text_1.startsWith("UNI")){
             System.out.println("A frase começa com UNI. \n");
         }
         else{
@@ -31,7 +31,7 @@ public class op1 {
         }
         
         // e
-        if(texto.endsWith("RIO")){
+        if(text_1.endsWith("RIO")){
             System.out.println("A frase termina com UNI. \n");
         }
         else{
